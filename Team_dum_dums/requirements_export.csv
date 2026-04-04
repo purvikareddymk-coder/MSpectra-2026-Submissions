@@ -1,0 +1,11 @@
+Category,Name,Specification,Status,Notes
+Hardware,Processor,Intel Core i7 or AMD Ryzen 7,Required,Multi-core recommended
+Hardware,RAM,16 GB DDR4,Required,32 GB for optimal performance
+Hardware,Storage,512 GB SSD,Required,NVMe preferred
+Hardware,Graphics Card,NVIDIA GTX 1660 or equivalent,Recommended,For GPU acceleration
+Hardware,Display,1920x1080 resolution,Optional,4K supported
+Software,Operating System,Windows 10/11, macOS 12+, Ubuntu 20.04+,Required,64-bit only
+Software,Node.js,v18.0 or higher,Required,LTS version recommended
+Software,Python,v3.10 or higher,Required,For data processing
+Software,Docker,v20.0 or higher,Recommended,For containerization
+Software,Git,v2.30 or higher,Optional,Version control
