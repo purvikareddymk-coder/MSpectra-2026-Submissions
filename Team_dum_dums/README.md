@@ -99,3 +99,6 @@ Company: Acceleron labs
 
 The system automatically detects file type and selects the appropriate extraction method (PyMuPDF, pdfplumber, or OCR). Extracted content is processed using an LLM to generate clean, structured outputs. Results are standardized into tabular format and exported to Excel. Designed for robustness, scalability, and handling real-world unstructured documents.
 
+## PPT has been uploaded
+## video link: https://drive.google.com/file/d/1t8LEHnlIvZngKms9maGgEwb4udsRKOaT/view?usp=sharing
+
