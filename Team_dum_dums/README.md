@@ -32,9 +32,9 @@ There is a need for software-driven solution to automate this process.
 
 The solution should:
 
-1\. Extract and identify hardware requirements separately. 
+1\. Extract and identify hardware requirements separately.
 
-2\. Extract and identify software requirements separately. 
+2\. Extract and identify software requirements separately.
 
 3\. Handle input files primarily in PDF format, and occasionally Excel
 
@@ -52,7 +52,7 @@ Few sample requirements have been shared. In these samples, you can see
 
 that Hardware and Software requirements are represented in different
 
-ways. 
+ways.
 
 The software should be able to decode them and arrive at the result.
 
@@ -92,14 +92,10 @@ Company: Acceleron labs
 
 * Frontend / UI: v0 by Vercel
 * Backend / IDE: FastAPI and Uvicorn
-* Database \& BaaS: Supabase
-* Rapid Prototyping: Streamlit
 
 
 
 \## Project Description:
 
 The system automatically detects file type and selects the appropriate extraction method (PyMuPDF, pdfplumber, or OCR). Extracted content is processed using an LLM to generate clean, structured outputs. Results are standardized into tabular format and exported to Excel. Designed for robustness, scalability, and handling real-world unstructured documents.
-
-
 
